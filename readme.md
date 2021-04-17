@@ -16,11 +16,11 @@ This is an example of how you fetch data from an API and write the response to a
    ```sh
    git clone https://github.com/Odumz/nodefilesystemtask.git
    ```
-3. Install NPM packages
+<!-- 2. Install NPM packages
    ```sh
    npm install || npm i
-   ```
-4. In your terminal, cd into the task folder then run
+   ``` -->
+2. In your terminal, cd into the task folder then run
    ```sh
    node filesystemtask.js
    ```
