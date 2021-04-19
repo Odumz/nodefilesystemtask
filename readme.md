@@ -16,6 +16,10 @@ This is an example of how you fetch data from an API and write the response to a
    ```sh
    git clone https://github.com/Odumz/nodefilesystemtask.git
    ```
+   OR
+   ```sh
+   git pull https://github.com/Odumz/nodefilesystemtask.git
+   ```
 <!-- 2. Install NPM packages
    ```sh
    npm install || npm i
