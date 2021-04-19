@@ -34,20 +34,4 @@ jsonData.then(
                 console.log("JSON file has been saved.");
             });
         });
-        // check if directory exists
-        // if (fs.existsSync(dir)) {
-        //     console.log('Directory exists!');
-        // } else {
-        //     console.log('Directory not found.');
-        // // }
-        // // define filepath
-        // let filepath = path.join(__dirname, 'result', 'posts.json');
-        // // write to file
-        // fs.writeFile(filepath, jsonContent, 'utf8', function (err) {
-        //     if (err) {
-        //         console.log("An error occured while writing JSON Object to File.");
-        //         return console.log(err);
-        //     }            
-        //     console.log("JSON file has been saved.");
-        // });
 }).catch(err => console.log(err))
