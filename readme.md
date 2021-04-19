@@ -27,7 +27,8 @@ This is an example of how you fetch data from an API and write the response to a
 3. In your terminal, type
    ```sh
    cd task/
-   ``` and press enter
+   ```
+   and press enter
 3. Once in the task folder, run
    ```sh
    node filesystemtask.js
