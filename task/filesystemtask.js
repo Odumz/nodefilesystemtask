@@ -20,7 +20,6 @@ jsonData.then(
         const dir = './result'
         // check if directory exists
         fs.access(dir, (err) => {
-            console.log(dir)
             console.log(`Directory ${err ? 'does not exist' : 'exists'}`);
 
             // define filepath
